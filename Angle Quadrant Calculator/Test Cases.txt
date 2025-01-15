@@ -1,7 +1,31 @@
-#1
+#1 (PASSED)
 Input: 500
 Output: 2nd Quadrant
 
-#2
+#2 (PASSED)
 Input: 330
 Output: 4th Quadrant
+
+#3 (PASSED)
+Input: -200
+Ouput: 2nd Quadrant
+
+#4 (PASSED)
+Input: -330
+Output: 3rd Quadrant
+
+#5 (PASSED)
+Input: 45
+Output: 1st Quadrant
+
+#6 (PASSED)
+Input: 720
+Output: 1st Quadrant
+
+#7 (PASSED)
+Input: -450
+Output: 4th Quadrant
+
+#8 (PASSED)
+Input: -1080
+Output: 1st Quadrant
